@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Poly">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Poly.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
